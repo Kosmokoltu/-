@@ -1,0 +1,7 @@
+Title: HockeyTodoApp v2.0 - Add ToDoUser and ToDoItem
+
+Description:
+- Added ToDoUser class
+- Added ToDoItem class
+- Added Enum ToDoItemState
+- Implemented /completetask command
