@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <AssemblyName>HockeyTodoApp</AssemblyName>
+    <RootNamespace>HockeyTodoApp</RootNamespace>
+    <Version>2.0.0</Version>
+    <Authors>Your Name</Authors>
+    <Description>Console application for task management with user tracking</Description>
+    <PackageProjectUrl>https://github.com/YOUR_USERNAME/HockeyTodoApp</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/YOUR_USERNAME/HockeyTodoApp</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+</Project>
